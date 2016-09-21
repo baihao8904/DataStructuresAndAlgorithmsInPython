@@ -40,7 +40,7 @@ class PrioQueue():
         e = elems.pop()
         if len(elems)>0:
             self.siftdown(e,0,len(elems))
-        return e
+        return e0
 
     def siftdown(self,e,begin,end):
         elems = self._elems
