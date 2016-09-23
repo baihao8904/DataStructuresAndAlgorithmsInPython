@@ -14,17 +14,19 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/DataStructres$NewLinkList.coverage" NAME="NewLinkList Coverage Results" MODIFIED="1473823566514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/DataStructres$LinkList.coverage" NAME="LinkList Coverage Results" MODIFIED="1473833236823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/DataStructres$BinTree.coverage" NAME="BinTree Coverage Results" MODIFIED="1474443542040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tree" />
-    <SUITE FILE_PATH="coverage/DataStructres$LCList.coverage" NAME="LCList Coverage Results" MODIFIED="1473822460335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/DataStructres$ListJosephus.coverage" NAME="ListJosephus Coverage Results" MODIFIED="1473834308855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Josephus" />
-    <SUITE FILE_PATH="coverage/DataStructres$heap_sort.coverage" NAME="heap_sort Coverage Results" MODIFIED="1474279126424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HeapLearn" />
     <SUITE FILE_PATH="coverage/DataStructres$SimulationClass.coverage" NAME="SimulationClass Coverage Results" MODIFIED="1474433021895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SimulationRandomEvent" />
-    <SUITE FILE_PATH="coverage/DataStructres$aDLList.coverage" NAME="aDLList Coverage Results" MODIFIED="1473827419917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/DataStructres$LinkListJosephus.coverage" NAME="LinkListJosephus Coverage Results" MODIFIED="1473835304628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Josephus" />
     <SUITE FILE_PATH="coverage/DataStructres$LListJosephus.coverage" NAME="LListJosephus Coverage Results" MODIFIED="1473834722843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Josephus" />
     <SUITE FILE_PATH="coverage/DataStructres$testre.coverage" NAME="testre Coverage Results" MODIFIED="1473840778297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ReStr" />
     <SUITE FILE_PATH="coverage/DataStructres$findUrl.coverage" NAME="findUrl Coverage Results" MODIFIED="1473842155555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ReStr" />
+    <SUITE FILE_PATH="coverage/DataStructres$LinkedListGraph.coverage" NAME="LinkedListGraph Coverage Results" MODIFIED="1474614974495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ExerciseGraph" />
+    <SUITE FILE_PATH="coverage/DataStructres$LinkList.coverage" NAME="LinkList Coverage Results" MODIFIED="1473833236823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DataStructres$BinTree.coverage" NAME="BinTree Coverage Results" MODIFIED="1474443542040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tree" />
+    <SUITE FILE_PATH="coverage/DataStructres$LCList.coverage" NAME="LCList Coverage Results" MODIFIED="1473822460335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DataStructres$heap_sort.coverage" NAME="heap_sort Coverage Results" MODIFIED="1474279126424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HeapLearn" />
+    <SUITE FILE_PATH="coverage/DataStructres$aDLList.coverage" NAME="aDLList Coverage Results" MODIFIED="1473827419917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DataStructres$ListGraph.coverage" NAME="ListGraph Coverage Results" MODIFIED="1474609980352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ExerciseGraph" />
+    <SUITE FILE_PATH="coverage/DataStructres$LinkListJosephus.coverage" NAME="LinkListJosephus Coverage Results" MODIFIED="1473835304628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Josephus" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -68,7 +70,7 @@
       <file leaf-file-name="SimulationClass.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SimulationRandomEvent/SimulationClass.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
+            <state relative-caret-position="3564">
               <caret line="132" column="68" selection-start-line="132" selection-start-column="68" selection-end-line="132" selection-end-column="68" />
               <folding>
                 <element signature="e#24#50#0" expanded="true" />
@@ -80,14 +82,14 @@
       <file leaf-file-name="ListQuene.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ExerciseStackAndQueue/ListQuene.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-297">
+            <state relative-caret-position="189">
               <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BinTree.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BinTree.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tree/BinTree.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="594">
@@ -99,43 +101,43 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="listStack.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExerciseStackAndQueue/listStack.py">
+      <file leaf-file-name="ListGraph.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ExerciseGraph/ListGraph.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-81">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="-73">
+              <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="findUrl.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ReStr/findUrl.py">
+      <file leaf-file-name="LinkedListGraph.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ExerciseGraph/LinkedListGraph.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="12" column="24" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="24" />
+            <state relative-caret-position="336">
+              <caret line="47" column="28" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
               <folding>
-                <element signature="e#24#39#0" expanded="true" />
+                <element signature="e#24#59#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="aDLList.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aDLList.py">
+      <file leaf-file-name="dfsExercise.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ExerciseGraph/dfsExercise.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+            <state relative-caret-position="378">
+              <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LCList.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LCList.py">
+      <file leaf-file-name="listStack.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ExerciseStackAndQueue/listStack.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="616">
+              <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -169,6 +171,9 @@
         <option value="$PROJECT_DIR$/HeapLearn/HeapClass.py" />
         <option value="$PROJECT_DIR$/SimulationRandomEvent/SimulationClass.py" />
         <option value="$PROJECT_DIR$/Tree/BinTree.py" />
+        <option value="$PROJECT_DIR$/ExerciseGraph/ListGraph.py" />
+        <option value="$PROJECT_DIR$/ExerciseGraph/LinkedListGraph.py" />
+        <option value="$PROJECT_DIR$/ExerciseGraph/dfsExercise.py" />
       </list>
     </option>
   </component>
@@ -179,10 +184,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="586" />
+    <option name="y" value="90" />
+    <option name="width" value="1223" />
+    <option name="height" value="937" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -216,7 +221,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -319,8 +323,23 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DataStructres" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DataStructres" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ExerciseGraph" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -329,43 +348,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager" selected="Python.BinTree">
-    <configuration default="false" name="testre" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ReStr" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="DataStructres" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ReStr/testre.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="findUrl" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ReStr" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="DataStructres" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ReStr/findUrl.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.LinkedListGraph">
     <configuration default="false" name="heap_sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -416,6 +399,42 @@
       <module name="DataStructres" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree/BinTree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ListGraph" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ExerciseGraph" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DataStructres" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExerciseGraph/ListGraph.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="LinkedListGraph" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ExerciseGraph" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DataStructres" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExerciseGraph/LinkedListGraph.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -629,19 +648,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.testre" />
-      <item index="1" class="java.lang.String" itemvalue="Python.findUrl" />
-      <item index="2" class="java.lang.String" itemvalue="Python.heap_sort" />
-      <item index="3" class="java.lang.String" itemvalue="Python.SimulationClass" />
-      <item index="4" class="java.lang.String" itemvalue="Python.BinTree" />
+      <item index="0" class="java.lang.String" itemvalue="Python.heap_sort" />
+      <item index="1" class="java.lang.String" itemvalue="Python.SimulationClass" />
+      <item index="2" class="java.lang.String" itemvalue="Python.BinTree" />
+      <item index="3" class="java.lang.String" itemvalue="Python.ListGraph" />
+      <item index="4" class="java.lang.String" itemvalue="Python.LinkedListGraph" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.BinTree" />
-        <item index="1" class="java.lang.String" itemvalue="Python.SimulationClass" />
-        <item index="2" class="java.lang.String" itemvalue="Python.heap_sort" />
-        <item index="3" class="java.lang.String" itemvalue="Python.findUrl" />
-        <item index="4" class="java.lang.String" itemvalue="Python.testre" />
+        <item index="0" class="java.lang.String" itemvalue="Python.LinkedListGraph" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ListGraph" />
+        <item index="2" class="java.lang.String" itemvalue="Python.BinTree" />
+        <item index="3" class="java.lang.String" itemvalue="Python.SimulationClass" />
+        <item index="4" class="java.lang.String" itemvalue="Python.heap_sort" />
       </list>
     </recent_temporary>
   </component>
@@ -662,21 +681,21 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <frame x="586" y="90" width="1223" height="937" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24946581" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20621225" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2379349" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26683939" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39955106" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39896372" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -710,8 +729,18 @@
           <line>18</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/ExerciseGraph/dfsExercise.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/ExerciseGraph/dfsExercise.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="10" />
+      <option name="time" value="12" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
@@ -720,28 +749,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LinkList.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Josephus/ListJosephus.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Josephus/LListJosephus.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Josephus/LinkListJosephus.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
@@ -777,7 +784,7 @@
         <state relative-caret-position="270">
           <caret line="12" column="24" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="24" />
           <folding>
-            <element signature="e#24#39#0" expanded="true" />
+            <element signature="e#24#39#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -839,7 +846,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#24#39#0" expanded="true" />
+            <element signature="e#24#39#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1011,7 +1018,7 @@
         <state relative-caret-position="270">
           <caret line="12" column="24" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="24" />
           <folding>
-            <element signature="e#24#39#0" expanded="true" />
+            <element signature="e#24#39#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1079,7 +1086,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SimulationRandomEvent/SimulationClass.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
+        <state relative-caret-position="3564">
           <caret line="132" column="68" selection-start-line="132" selection-start-column="68" selection-end-line="132" selection-end-column="68" />
           <folding>
             <element signature="e#24#50#0" expanded="true" />
@@ -1089,16 +1096,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ExerciseStackAndQueue/ListQuene.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-297">
+        <state relative-caret-position="189">
           <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExerciseStackAndQueue/listStack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-81">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1110,6 +1109,40 @@
           <folding>
             <element signature="e#23#76#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExerciseGraph/ListGraph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-73">
+          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExerciseStackAndQueue/listStack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExerciseGraph/LinkedListGraph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="47" column="28" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
+          <folding>
+            <element signature="e#24#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExerciseGraph/dfsExercise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
